@@ -19,7 +19,7 @@ You can use the [humanpnp](https://files.0xcb.dev/0xCB/micro/humanpnp.html) to e
 
 ### PCB:
 KiCad 5.99
-[Schematic](https://github.com/0xCB-dev/0xcb-micro/blob/main/PCB/rev1.0/Schematic-Static.pdf)
+[Schematic](https://github.com/0xCB-dev/0xcb-micro/blob/main/PCB/rev1.0/Schematic-micro.pdf)
 
 Top | Bottom
 :-------------------------:|:-------------------------:
