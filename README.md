@@ -11,7 +11,7 @@ Licence | OSHWA | Tindie
 * `cd qmk_firmware`
 * `export LTO=Y`
 * To go to bootloader hold the ESC key (row0 col0 / the key on the PCB) while plugging in (or short RST from the ISP header to GND).
-* `make 0xcb/static:via:flash`
+* `make 0xcb/micro:via:flash`
 
 ### Assembly:
 
