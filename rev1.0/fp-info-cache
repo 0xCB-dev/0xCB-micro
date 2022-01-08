@@ -1,4 +1,4 @@
-19593872701188464
+19595500541883645
 0xcb
 AVR_PROG_2.54_THT
 AVR Programmer 6 pogo pin 2.54 mm spacing
@@ -41,6 +41,13 @@ MXOnly-1U
 0
 4
 4
+0xcb
+MountingHole_2.2mm_M2_DIN965_Pad_TopBottom_SMOL
+Mounting Hole 2.2mm, M2, DIN965
+mounting hole 2.2mm m2 din965
+0
+3
+1
 0xcb
 QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias
 QFN, 44 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/2512S.pdf#page=17), generated with kicad-footprint-generator ipc_noLead_generator.py

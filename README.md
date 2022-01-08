@@ -1,10 +1,9 @@
 # 0xcb-micro
 ## 1% - 65% keyboard controller with RGB underglow and a backlight driver
 
-Licence | OSHWA | Tindie
-:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/0xCB-dev/0xcb-micro/blob/main/LICENSE.svg) | [![](https://github.com/0xCB-dev/0xcb-micro/blob/main/PCB/rev1.0/OSHWA.svg)](https://certification.oshwa.org/de000114.html) | <a href="https://www.tindie.com/stores/0xcb/?ref=offsite_badges&utm_source=sellers_conorlburns&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
-
+Licence | OSHWA
+:-------------------------:|:-------------------------:
+![](https://github.com/0xCB-dev/0xcb-micro/blob/main/LICENSE.svg) | TBD
 #### Flashing
 
 * `qmk clone`
@@ -18,12 +17,13 @@ Licence | OSHWA | Tindie
 You can use the [humanpnp](https://files.0xcb.dev/0xCB/micro/humanpnp.html) to easily place components.
 
 ### PCB:
-KiCad 5.99
-[Schematic](https://github.com/0xCB-dev/0xcb-micro/blob/main/PCB/rev1.0/Schematic-micro.pdf)
+KiCad 6 stable
+
+[Schematic](https://github.com/0xCB-dev/0xcb-micro/blob/main/rev1.0/micro.pdf)
 
 Top | Bottom
 :-------------------------:|:-------------------------:
-![](https://github.com/0xCB-dev/0xcb-micro/blob/main/PCB/rev1.0/top.png)  |  ![](https://github.com/0xCB-dev/0xcb-micro/blob/main/PCB/rev1.0/bottom.png)
+![](https://github.com/0xCB-dev/0xcb-micro/blob/main/rev1.0/micro.top.png)  |  ![](https://github.com/0xCB-dev/0xcb-micro/blob/main/rev1.0/micro.bottom.png)
 
 #### BOM:
 | References          | Value       | Quantity |Part Nb.          |
