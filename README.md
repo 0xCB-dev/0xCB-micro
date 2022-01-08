@@ -3,7 +3,8 @@
 
 Licence | OSHWA
 :-------------------------:|:-------------------------:
-![](https://github.com/0xCB-dev/0xcb-micro/blob/main/LICENSE.svg) | TBD
+![](https://github.com/0xCB-dev/0xcb-micro/blob/main/LICENSE.svg) | [![](https://github.com/0xCB-dev/0xCB-micro/blob/main/rev1.0/OSHWA.svg)](https://certification.oshwa.org/de000115.html)
+
 #### Flashing
 
 * `qmk clone`
