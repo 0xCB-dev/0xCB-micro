@@ -15,7 +15,7 @@ Licence | OSHWA
 
 ### Assembly:
 
-You can use the [humanpnp](https://files.0xcb.dev/0xCB/micro/humanpnp.html) to easily place components.
+You can use the [humanpnp](https://files.0xcb.dev/0xCB-micro/humanpnp.html) to easily place components.
 
 ### PCB:
 KiCad 6 stable
